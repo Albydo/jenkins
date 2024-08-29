@@ -25,10 +25,10 @@ class GoedeDoelTest {
 		assertThat(doel.getOpbrengst()).isZero();
 	}
 
-	@Test
+	/*@Test
 	void fouteTest(){
 		assertThat(0).isEqualTo(1);
-	}
+	}*/
 
 
 
